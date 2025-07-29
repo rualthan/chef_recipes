@@ -1,1 +1,1 @@
-A few started chef recipes.
+A few starter chef recipes.
